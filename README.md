@@ -1,0 +1,1 @@
+# an-lise_de_sentimento_usando_Python
